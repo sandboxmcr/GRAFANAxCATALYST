@@ -1,5 +1,5 @@
 # CODIGO DE RECUPERACIÓN DE DATOS DE UTILIZACIÓN POE PARA DISPOTIVOS, 
-# MEDIANTE APIS DE DNAC
+# MEDIANTE NETMIKO
 """
 Este código se basa en una herramienta de automatizaciòn llamada NETMIKO 
 para obtener el uso cpu de todos los equipos que se desean. NO es requerido 
