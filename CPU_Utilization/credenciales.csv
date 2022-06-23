@@ -1,0 +1,15 @@
+IP Address,Hostname,Username,Password
+10.96.246.47,3850-1,sdaadmin,Cisco12345
+10.96.246.48,3850-2,sdaadmin,Cisco12345
+10.96.246.50,3850-4,sdaadmin,Cisco12345
+10.96.246.54,9300-2,sdaadmin,Cisco12345
+10.96.246.55,9300-3,sdaadmin,Cisco12345
+10.96.246.56,9300-4,sdaadmin,Cisco12345
+10.96.246.34,1000-4,sdaadmin,Cisco12345
+10.96.246.35,1000-5,sdaadmin,Cisco12345
+10.96.246.36,9800-1,sdaadmin,Cisco12345
+10.96.246.37,9800-2,sdaadmin,Cisco12345
+10.96.246.38,9800-3,sdaadmin,Cisco12345
+10.96.246.31,1000-1,sdaadmin,Cisco12345
+10.96.246.32,1000-2,sdaadmin,Cisco12345
+10.96.246.33,1000-3,sdaadmin,Cisco12345
