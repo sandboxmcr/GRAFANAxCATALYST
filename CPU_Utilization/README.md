@@ -28,4 +28,5 @@ Para este proyecto se utilizò una base de datos sqlite3, la llamamos CPU_NDNAC.
 
 <h4> CREDENCIALES DE LOS EQUIPOS </h4>
 Las cerenciales de los equipos se almacenan en un documento .csv en el siguiente formato. Contiene la dirección IP, el nombre del hostname, Username y Password para la conexión SSH con el dispositivo.
+
 ![image](https://user-images.githubusercontent.com/107586333/175192493-4e44373d-4f19-4859-b8ff-216e6bc680e5.png)
