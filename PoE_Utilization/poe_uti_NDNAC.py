@@ -1,8 +1,6 @@
 
 # CODIGO DE RECUPERACIÓN DE UTILIZACIÓN DE ENERGÍA EN PUERTOS POE
 """
-Este código se basa en llamadas de APIs para obtener la
-utilización de los puertos POE de los equipos accedidos por Netmiko.
     
     Netmiko es una libreria de redes multivendedores que es una libreria 
     estandar para las conexiones ssh Python. Con Netmiko como base, se pueden 
