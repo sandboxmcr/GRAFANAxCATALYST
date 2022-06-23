@@ -26,9 +26,9 @@ import sqlite3
 from datetime import timedelta
 
 ################# Sección de credenciales de DNAC ################
-DNAC_URL = "10.96.246.70"
-DNAC_USER = "admin"
-DNAC_PASS = "Cisco12345"
+DNAC_URL = ""
+DNAC_USER = ""
+DNAC_PASS = ""
 
 #Función para obtener la hora a la que se deberá actualizar nuevamente el token
 def delta_min(time):
