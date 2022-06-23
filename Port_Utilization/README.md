@@ -41,4 +41,3 @@ Para este proyecto se utilizò una base de datos sqlite3, la llamamos PoE_uti.db
 
 ![image](https://user-images.githubusercontent.com/107586333/175199393-0319fb4a-d7ba-4a20-bb64-967d723a3007.png)
 
-![image](https://user-images.githubusercontent.com/107586333/175198313-1f831870-799e-4a49-a782-79b71f6d8a0e.png)
